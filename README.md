@@ -12,6 +12,9 @@ Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of T
 
 - [@Cognitive Class](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
 
-##Screenshot
-![ss](https://github.com/Adelia-yuli/The-Art-of-Prompt-Engineering/assets/157672797/53f325f8-6a96-4ced-8837-1bed2a5918fa)
+## Screenshots
+![ss](https://github.com/Adelia-yuli/The-Art-of-Prompt-Engineering/assets/157672797/60750521-5cac-42dc-839e-0319e78147d6)
+
+
+
 
